@@ -4,11 +4,21 @@ This repository is dedicated to the experiments I do in flutter. Something that 
 
 ## Experiments
 
+- [Cred Scrollbar](#cred-scrollbar---nov-2022)
 - [India Flag](#india-flag---aug-2022)
 - [Three D Example](#three-d-example-aug-2022)
 - [Flame Wave](#flame-wave---june-2022)
 
 ## A bit detailed:
+
+### [Cred Scrollbar - (Nov 2022)](./cred_scrollbar)
+
+Recreated CRED's horizontal scrollbar in Flutter
+
+Video:
+
+https://user-images.githubusercontent.com/40348358/199480678-c7936ed1-476c-4cdc-afe0-8dfa2a5ff3c1.mov
+
 ### [India Flag - (Aug 2022)](./india_flag/)
 
 Made an India Flag waving gif for the India's Independence using Flame.
