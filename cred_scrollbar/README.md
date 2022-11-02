@@ -1,16 +1,11 @@
 # cred_scrollbar
 
-A new Flutter project.
+This is a horizontal scrollbar recreated in flutter that is used by cred.
 
-## Getting Started
+CRED's scrollbar:
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/40348358/199480607-b0775b4a-b457-4b7d-a139-447116e2de7e.mp4
 
-A few resources to get you started if this is your first Flutter project:
+Re created scrollbar:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/40348358/199480678-c7936ed1-476c-4cdc-afe0-8dfa2a5ff3c1.mov
