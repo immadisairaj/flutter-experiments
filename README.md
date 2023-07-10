@@ -4,12 +4,19 @@ This repository is dedicated to the experiments I do in flutter. Something that 
 
 ## Experiments
 
+- [Sort Visualizer](#sort-visualizer---june-2023)
 - [Cred Scrollbar](#cred-scrollbar---nov-2022)
 - [India Flag](#india-flag---aug-2022)
 - [Three D Example](#three-d-example-aug-2022)
 - [Flame Wave](#flame-wave---june-2022)
 
 ## A bit detailed:
+
+### [Sort Visualizer - (June 2023)](./sort_visualizer/)
+
+Just a small experiment of visualizing sort techniques. Currently only made it for Bubble, Insertion and Selection sort. Other videos are in [here](./sort_visualizer/screen_recordings/).
+
+Bubble Sort Video:
 
 ### [Cred Scrollbar - (Nov 2022)](./cred_scrollbar)
 
