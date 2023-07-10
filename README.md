@@ -18,6 +18,10 @@ Just a small experiment of visualizing sort techniques. Currently only made it f
 
 Bubble Sort Video:
 
+https://github.com/immadisairaj/flutter-experiments/assets/40348358/fe813bd2-1173-4e27-a745-e892fb240643
+
+Tweet Link: https://twitter.com/immadisairaj/status/1671433106216333312
+
 ### [Cred Scrollbar - (Nov 2022)](./cred_scrollbar)
 
 Recreated CRED's horizontal scrollbar in Flutter
